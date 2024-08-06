@@ -1,0 +1,69 @@
+Question:I have a technically based education and would like to work for BMW in Austria.
+Answer: We appreciate your interest in BMW. Please send your full application details to:
+BMW Motoren GmbH
+Personnel Management
+Hinterbergerstrasse 2
+4400 Steyr
+Austria
+E-mail: personal@bmw.co.at
+Tel.: +43 (0)7252 888-3203
+
+Question:Is the navigation map in my BMW automatically updated?
+Answer:The navigation map in your BMW is automatically updated over the air when subscribed to ConnectedDrive service "Automatic Map Update". To check your subscription status please login to the My BMW portal and visit My Garage > Vehicle Profile > My Digital Services.
+
+Question:How can I restart or "reboot" the BMW iDrive system in my vehicle?
+Answer:To restart the BMW iDrive system in your BMW, press and hold the volume control button on the audio control unit for at least 30 seconds. Please note: Only restart the BMW iDrive system in your vehicle when the vehicle is safely parked. Your vehicle must be in the "radio-ready" state (BMW iDrive active). Some functions of the BMW iDrive operating system will not be available or only partially available during the restart. Please allow the system to fully restart before driving the vehicle.
+
+How can I activate or deactivate the vehicle tracking of my BMW?
+To activate or deactivate the vehicle tracking (GPS tracking) of your BMW with BMW Operating System 7, select the following in the iDrive operating system: "CAR" > "Settings" > "General Settings" > "Privacy" > "BMW ConnectedDrive" > "My BMW App and My BMW portal". In your BMW with iDrive operating system with main menu with displays in the form of tiles (ID6), select: "My vehicle" > "iDrive settings" > "Privacy" > "Vehicle tracking". Please note: If the vehicle tracking is deactivated, the vehicle will not be displayed in the My BMW App.
+
+Which Remote Services can I use in the My BMW App?
+You can currently use the following Remote Services in the BMW App: Check vehicle status, lock/unlock doors, open/close windows ("convenient opening"), open/close sliding roof or top ("comfort opening"), activate headlight flasher, activate horn, start air conditioning, start engine ("Remote Engine Start"), "Remote 3D View", "Remote Inside View" and "Vehicle Finder". In conjunction with the BMW Digital Key Plus, you can also use the self-leveling suspension, automatic doors and Remote Control Parking within a radius of 6 meters from your vehicle. You can set the charging mode and departure time for your BMW electric or plug-in hybrid vehicle and save various charging settings. Please note: You must activate Remote Services in the My BMW App and consent to data transfer in the "Privacy" menu in the vehicle. The range of functions and operating principle of Remote Services may vary depending on the country of delivery and equipment of your BMW.
+
+Viewed by 313974 visitors313974
+How do I track the status of my new BMW vehicle order online?
+Once production begins, you can track your new BMW via the My BMW portal.
+
+If you’re a first-time BMW owner:
+
+Visit MyGarage.bmwusa.com
+Click “Register now”
+Enter your information to set up an account and check the box to accept the Terms and Conditions.
+Click “Register now”
+Check your email to complete the registration.
+Once you open the email, select “My Garage”
+If you’re a current BMW owner, use the same log in credentials you use for your BMW ConnectedDrive account.  If you are unsure of your BMW ConnectedDrive credentials, contact BMW Assist at 888-333-6118 to obtain your email and password.
+
+Visit MyGarage.bmwusa.com
+Enter your BMW ID (email address) and Password of the primary account holder
+Click “Login”
+Add your BMW for tracking.
+
+Click “Track My BMW” header
+Click “Track your new BMW”
+Enter your 17-digit VIN, if available.
+Or, click “Vehicle still in production?  Enter your Production Number instead” to enter the production number.
+Click “Next”
+Click “Add Vehicle”
+Once you add the vehicle, you can click “My Vehicles” on the My Garage menu, then “Track Status” to view a  production timeline.
+You will be able to track through the 16 events below.
+
+Order received – Your order has been received, and we’re making space in the production schedule.
+Scheduled for production – The factory has scheduled production of your unique BMW.
+Production begins – Today’s the day:  your BMW has entered the production queue.
+Exterior body assembly begins – Your BMW is taking shape.  Exterior body construction has begun.
+In the paint booth – Your BMW is ready to show its true colors in the paint shop.
+Entering assembly line – On to the assembly line, where your BMW really starts to come together.
+Assembly in progress – Your BMW is being assembled.
+Quality check – We’re doing our last checks to make sure your BMW is just right.
+Final assembly – Putting on the finishing touches that make every BMW special.
+Ready for transport – Your BMW is being prepared for transport.
+Awaiting carrier assignment – A carrier has been assigned to take care of your BMW.
+Dispatched from factory – Your new BMW has left the factory, and is on its way to you.
+At the port – Your BMW has arrived at the port.
+In transit – Your BMW is in transit.  It won’t be long now.
+At the dealership – It’s so close – your BMW has arrived at your BMW Center.
+Vehicle delivered – Your BMW is home.
+
+Is a map update available for my BMW?
+Navigation updates are provided over the air when subscribed to ConnectedDrive service "Automatic Map Update". To check your subscription status please login to the My BMW portal and visit My Garage > Vehicle Profile > Your ConnectedDrive subscriptions.

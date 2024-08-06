@@ -1,0 +1,124 @@
+----------------  ----------------------------------------------------------------------------
+BMW iX            BMW iX
+BMW iX            BMW iX
+Overview          Overview
+Manufacturer      BMW
+Model code        I20
+Production        July 2021[1]–present
+Model years       2022–present
+Assembly          Germany:Dingolfing(Plant Dingolfing)
+Designer          Tianyuan Li (2019)Chris Lee (2019)[2]Shuai Feng (Head of BMW Designworks)[3]
+Body and chassis  Body and chassis
+Class             Mid-size luxurycrossover SUV
+Body style        5-doorSUV
+Layout            Dual-motor,all-wheel drive(xDrive)
+Powertrain        Powertrain
+Electric motor    2xsynchronous electric motor
+Transmission      Single-speed with fixed ratio
+Battery           71 kWh / 76.6 kWh105 kWh / 111.5 kWh, 400 V(usable / total)
+Electric range    Up to 630 km (391 mi)WLTP
+Plug-in charging  AC11 kW / 22 kWDCUp to 200 kW
+Dimensions        Dimensions
+Wheelbase         3,000 mm (118.1 in)
+Length            4,953 mm (195.0 in)
+Width             1,967 mm (77.4 in)
+Height            1,696 mm (66.8 in)
+Curb weight       2,440–2,659 kg (5,379–5,862 lb)
+----------------  ----------------------------------------------------------------------------- 71 kWh / 76.6 kWh
+- 105 kWh / 111.5 kWh, 400 V
+- (usable / total)
+- AC 11 kW / 22 kW
+- DC Up to 200 kW
+The BMW iX is a battery-electric mid-size luxury crossover SUV manufactured and marketed by the German automobile manufacturer BMW. It was unveiled in concept form named Vision iNext at the 2018 Paris Motor Show,[4] and then as fully production-ready in November 2020.[5] The iX is the first purpose-built electric vehicle by BMW since the i3 from 2013,[6] and the fourth BMW i sub-brand model.[7]
+ The iX nameplate was chosen to signify the model's position at the top of the electric i line-up and its role in showcasing technology as it uses the new fifth-generation version of BMW's electric drive system, and also offers high levels of autonomous and connected technology.[8]
+ Overview:
+History:
+The BMW iNext was first announced by BMW in March 2016 as the "new spearhead of innovation and technology" with a launch goal of early in the next decade.[9]
+ The BMW Vision iNext was unveiled at the 2018 Paris Motor Show. Referred as "Project i 2.0", the Vision iNext was developed to address key questions for the future of motoring, with a focus on electrification, connectivity and autonomy. It was an SUV roughly similar in size to the BMW X5, although it was substantially bigger inside due to its EV architecture, with front and rear motors and underfloor batteries. BMW confirmed that it would use BMW's fifth-generation electric powertrain, 0–100 km/h (62 mph) in 4.0 seconds and range of 380 mi (612 km). The level of autonomy the production version would offers depended on regulations and infrastructure.[10]
+ The production variant, the BMW iX, was officially announced in November 2020.[11]
+
+BMW Vision iNext concept at IAA 2019
+
+
+BMW Vision iNext interior
+
+
+BMW Vision iNext rear
+
+Launch:
+The BMW iX was released in June 2021 as a 2022 model, alongside the BMW i4. Sales began in November 2021. At launch, BMW indicated the release was part of an ongoing effort to reach a 50% global share of the electric vehicle market. The BMW iX was announced to be manufactured at the BMW Group Plant Dingolfing.[12]
+ A performance model, the iX M60, was released in May 2022.[13]
+
+BMW iX at IAA 2021
+
+
+BMW iX cutaway at IAA 2021
+
+
+BMW iX rear
+
+Specifications:
+Body and chassis:
+The BMW iX is built on a bespoke electric drivetrain architecture and an aluminum spaceframe with carbon fibre reinforced plastic (CFRP) side frame, rain channels, roof frame and rear window aperture.[14] The electric platform is a "totally new development", though it is "highly compatible" with the modular CLAR platform. This shared chassis componentry allows BMW to produce the iX alongside cars with combustion engines at the Dingolfing plant.[8]
+ The body is made out of a combination of high-strength steel, aluminium, thermoplastics and carbonfibre-reinforced plastic (CFRP) to keep weight as low as possible.[15] Underpinning the iX is an aluminium-intensive chassis featuring a double-wishbone (front) and multi-link (rear) suspension, offering active rear-wheel steering.[8] The front features a large blanked off grille, which contains camera, radar and other sensors needed for the driver assistance systems.[16] The grille comes with a self-healing coating that can smooth-out scratches and small chips to make sure that the sensors can always "see" clearly.[17]
+ The iX resembles the G05 X5 in length and width, but with the lower roof height of an G06 X6 and the larger wheel size of an G07 X7.[18] It has a 0.25 drag coefficient and a 2.82 m2 frontal area (thus CdA=0.71m2). BMW says the vehicle's low aerodynamic profile improved its WLTP range by around 40 miles.[16] The iX features a fixed clamshell-style bonnet. The windscreen washer bottle is accessed via the BMW emblem above the grille.[8]
+ Powertrain:
+The iX utilise BMW's fifth-generation scalable electric drivetrain that is developed in-house.[19] The electric powertrain combines the electric motor, power electronics and single-speed transmission in a single housing. The power density of the system is around 30 percent higher than previously, according to BMW.[8] The electric motors operate without the use of cobalt that makes the motors in the iX spin using electricity alone, instead of permanent magnets making the rotor spin around the stator. BMW claims its fifth-generation eDrive technology is 93 percent efficient. There is still some cobalt used in the lithium-ion batteries.[20]
+ The iX's default regenerative braking mode utilizes adaptive recuperation. With the help of GPS data and sensors, Adaptive mode adjusts the regen to be more aggressive in urban traffic and less so on open roads, where it allows coasting.[21] There are three levels of adjustable regenerative braking: high, medium, and low. The high setting essentially enables one-pedal driving as all the braking is achievable regeneratively, while the low level amounts to a very modest amount of energy recovery to get close to a traditional coasting experience.[22]
+ Battery and charging:
+The batteries consists of prismatic cells and has a standard 400 V battery system. According to BMW, the gravimetric energy density of the lithium-ion battery has been increased by around 20 percent compared to the previous generation. The vehicle has a thermal management system featuring heating and cooling with heat pump, and a battery pre-conditioning feature ahead of fast charging.[23]
+ The xDrive40 is able to DC fast charge up to 150 kW using a CCS connector and the xDrive50 up to 200 kW, with both being able to charge 10–80 percent in less than 40 minutes.[6] As for home charging, an 11 kW charger can fully charge the battery from empty in around 11 hours.[16]
+ Safety:
+---------------------  ---------------
+Euro NCAPscores        Euro NCAPscores
+Overall rating
+Adult Occupant         91%
+Child Occupant         87%
+Vulnerable Road Users  73%
+Safety Assist          81%
+Bodyshell integrity    Stable
+---------------------  ---------------BMW iX is rated 5 stars in Euro NCAP.
+ Equipment and technology:
+The BMW iX is the first vehicle to feature the iDrive 8 that combines a 12.3-inch digital instrument cluster with a 14.9-inch infotainment touchscreen to form a single curved unit. The system comes with an upgraded version of BMW's personal voice assistant and retains the iDrive controller. It is the first time the technology has been offered in a production BMW, and it comes standard with a hexagonal steering wheel.[24] Other standard equipments are the 18-speaker Harman Kardon sound system, as well as BMW safety systems like parking assistant and driving assistant professional.[15] Available options include a panoramic sunroof and sun-protection glass, soft-close doors, heated and ventilated seats, parking assistant, interior camera, a Bowers & Wilkins stereo, and M Sport styling.[15]
+ It is the first luxury car to feature built-in 5G technology that allows it over-the-air functionality.[citation needed][clarification needed] The iX has 20 times the on-board computing power of previous BMW models, allowing it to process double the amount of data coming from cameras and sensors mounted.[citation needed] This allows for Level 2+ semi autonomous driving capability and an extensive range of driver-assistance and collision-avoidance technology.[25] The driver assist system in the iX can help drivers stay in their lane, maintain speed, and make lane changes safely.[26]
+ BMW hinted at Level 3 autonomous driving when it unveiled the iNext concept in 2018. However, any mention of iX's self-driving capabilities was absent from the official release.[16][18] Product-development chief of BMW's luxury cars, Frank van Meel stated: "I can't give a promise of a date. We are preparing, we are collecting data [from a large test fleet of modified 7 Series cars], and we will improve the iX by software over the air. We will take an evolutionary path, not jumping forward and having to pull back."[27] Frank Weber, head of R&D at BMW, confirmed in November 2021 that the iX will be offered with Level 3 capabilities as an option as the iX's hardware and software are capable of level 3 autonomy.[28]
+ Models:
+-------------------------------  ---------------------------------------------------------------------------------------  ---------------------------------------------------------------------------------------  ---------------------------------------------------------------------------------------
+Model                            xDrive40                                                                                 xDrive50                                                                                 M60
+Powertrain                       Dual-motor all-wheel drive (xDrive)                                                      Dual-motor all-wheel drive (xDrive)                                                      Dual-motor all-wheel drive (xDrive)
+Availability                     2021–                                                                                    2021–                                                                                    2022–
+Battery capacity                 76.6 kWh                                                                                 111.5 kWh                                                                                111.5 kWh
+Range                            372–425 km (231–264 mi)WLTP                                                              549–630 km (341–391 mi)WLTP305–324 mi (491–521 km)EPA                                    566 km (352 mi)WLTP
+Motor                            3-phase excitedsynchronous motor(ESM), front and rear                                    3-phase excitedsynchronous motor(ESM), front and rear                                    3-phase excitedsynchronous motor(ESM), front and rear
+Power (peak)                     240 kW (322 hp; 326 PS)                                                                  385 kW (516 hp; 523 PS)                                                                  455 kW (610 hp; 619 PS)
+Torque (peak)                    630 N⋅m (465 lbf⋅ft)                                                                     765 N⋅m (564 lbf⋅ft)                                                                     1,100 N⋅m (811 lbf⋅ft)
+Acceleration0–100 km/h (62 mph)  6.1 seconds                                                                              4.6 seconds                                                                              3.8 seconds
+Top Speed                        200 km/h (124 mph)                                                                       200 km/h (124 mph)                                                                       250 km/h (155 mph)
+DC Fast Charge (DCFC) Speed      Up to DC 150 kW viaCCS Combo 2                                                           Up to DC 200 kW via CCS Combo 2                                                          Up to DC 200 kW via CCS Combo 2
+ACOn-board Charge Speed          AC 11 kW / 22 kW viaJ1772(North America) or3-phase AC11 kW / 22 kW viaType 2(elsewhere)  AC 11 kW / 22 kW viaJ1772(North America) or3-phase AC11 kW / 22 kW viaType 2(elsewhere)  AC 11 kW / 22 kW viaJ1772(North America) or3-phase AC11 kW / 22 kW viaType 2(elsewhere)
+Weight (EU)                      2,440 kg (5,379 lb)                                                                      2,585 kg (5,699 lb)                                                                      2,659 kg (5,862 lb)
+-------------------------------  ---------------------------------------------------------------------------------------  ---------------------------------------------------------------------------------------  ---------------------------------------------------------------------------------------Specifications
+ Gallery:
+
+Frontal view
+
+
+Rear view
+
+
+Lateral view
+
+
+Hexagonal steering wheel
+
+
+Self-repair minor scratches kidney grilles
+
+
+Dashboard
+
+
+Interior
+
+See also:
+- List of BMW vehicles

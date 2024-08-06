@@ -1,0 +1,171 @@
+
+ 
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  ----------------
+
+BMW 520i M Sport                                                                                                                                                                                                                                                                                                                                                     BMW 520i M Sport
+
+BMW
+G60 (saloon)G61 (estate)G68 (long-wheelbase saloon)
+BMW i5 (electric version)
+July 2023 – present (sedan)March 2024 – present (estate)
+2024–present
+Germany:Dingolfing(Dingolfing Plant)China:Dadong, Shenyang(BBA,LWB)
+Anders Thøgersen
+
+Executive car(E)
+4-doorsaloon(G60)5-doorestate(G61)
+Front-engine, rear-wheel-driveFront-engine, all-wheel-drive(xDrive)Rear-motor, rear-wheel-drive(i5 eDrive40)Dual-motors, all-wheel-drive(i5 xDrive40, M60)
+Cluster Architecture (CLAR)
+BMW 7 Series (G70)
+
+Petrol:2.0 LB48I4turbo3.0 LB58turboI6Petrolplug-in hybrid:3.0 LB58turbo I6Diesel:2.0 LB47I4turbo3.0 LB57turbo I6
+List48 V electric motor, integrated into transmission (mild hybrid)permanent magnet synchronous(PHEV)1x or 2× BMW eDrivepermanently excited synchronous motors(i5)
+List145 kW (194 hp; 197 PS) (520d)153 kW (205 hp; 208 PS) (520i)190 kW (255 hp; 258 PS) (530i)220 kW (295 hp; 299 PS) (530e)224 kW (300 hp; 305 PS) (540d xDrive)250 kW (335 hp; 340 PS) (i5 eDrive40)280 kW (375 hp; 381 PS) (540i xDrive)365 kW (489 hp; 496 PS) (550e xDrive)421 kW (565 hp; 572 PS) (M560e xDrive)(i5 xDrive40)442 kW (593 hp; 601 PS) (i5 M60)
+8-speed ZF 8HPautomaticSingle-speed (i5)
+Mild hybridPlug-in hybrid
+48 Vlithium-ion19.4 kWh lithium-ion (530e / 550e xDrive / M560e xDrive )84.3 kWh lithium-ion (i5)
+
+2,995 mm (117.9 in)3,105 mm (122.2 in) LWB
+5,060 mm (199 in)5,175 mm (203.7 in) LWB
+1,900 mm (75 in)
+1,515 mm (59.6 in)
+1,800–2,380 kg (3,970–5,250 lb)
+
+BMW 5 Series (G30)BMW 6 Series (G32)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  ----------------- G60 (saloon)
+- G61 (estate)
+- G68 (long-wheelbase saloon)
+- July 2023 – present (sedan)
+- March 2024 – present (estate)
+- Germany: Dingolfing (Dingolfing Plant)
+- China: Dadong, Shenyang (BBA, LWB)
+- 4-door saloon (G60)
+- 5-door estate (G61)
+- Front-engine, rear-wheel-drive
+- Front-engine, all-wheel-drive (xDrive)
+- Rear-motor, rear-wheel-drive (i5 eDrive40)
+- Dual-motors, all-wheel-drive (i5 xDrive40, M60)
+- Petrol:
+- 2.0 L B48 I4 turbo
+- 3.0 L B58 turbo I6
+- Petrol plug-in hybrid:
+- 3.0 L B58 turbo I6
+- Diesel:
+- 2.0 L B47 I4 turbo
+- 3.0 L B57 turbo I6
+- 48 V electric motor, integrated into transmission (mild hybrid)
+- permanent magnet synchronous (PHEV)
+- 1x or 2× BMW eDrive permanently excited synchronous motors (i5)
+- 145 kW (194 hp; 197 PS) (520d)
+- 153 kW (205 hp; 208 PS) (520i)
+- 190 kW (255 hp; 258 PS) (530i)
+- 220 kW (295 hp; 299 PS) (530e)
+- 224 kW (300 hp; 305 PS) (540d xDrive)
+- 250 kW (335 hp; 340 PS) (i5 eDrive40)
+- 280 kW (375 hp; 381 PS) (540i xDrive)
+- 365 kW (489 hp; 496 PS) (550e xDrive)
+- 421 kW (565 hp; 572 PS) (M560e xDrive)
+- (i5 xDrive40)
+- 442 kW (593 hp; 601 PS) (i5 M60)
+- 8-speed ZF 8HP automatic
+- Single-speed (i5)
+- Mild hybrid
+- Plug-in hybrid
+- 48 V lithium-ion
+- 19.4 kWh lithium-ion (530e / 550e xDrive / M560e xDrive )
+- 84.3 kWh lithium-ion (i5)
+The BMW 5 Series (G60) is an executive car manufactured and marketed by German luxury automaker BMW since 2023. The lineup consists of the G60 saloon, G61 estate (marketed as Touring), and the G68 long-wheelbase sedan. It represents the eighth generation of the BMW 5 Series, succeeding the G30 model and the G32 6 Series liftback.
+ The G60 was officially revealed on 24 May 2023, began production on 21 July 2023, with sales commencing in October. Built upon an updated version of the rear-wheel drive Cluster Architecture (CLAR) platform, shared with the larger G70 7 Series, it is significantly larger than any of its predecessors. The eighth generation BMW 5 Series is also offered with a battery electric powertrain, called the "i5". Three models are offered; the entry-level, rear-wheel-drive eDrive40 model, the mid-range, all-wheel-drive xDrive40, and the range topping M60 xDrive model.
+ A long-wheelbase saloon model (G68) exclusive to China debuted in August 2023 and it is assembled at the Dadong plant.[1] The G61 5 Series Touring was unveiled in February 2024.[2] The fastback derivative, the 6 Series Gran Turismo has been discontinued.
+ Development:
+Testing:
+In February 2022, testing of the i5 commenced when engineers drove it from Munich to the test center in Arjeplog. It had to cover about 1,850 miles (2,980 km) to northern Sweden before undergoing additional testing throughout the year. Prototypes were assessed in and around Munich and in the vicinity of the Dingolfing factory.[3] The testing was implemented to evaluate the efficiency of its electric motors, power electronics, high-voltage battery and integrated heating and cooling system for the cabin and battery pack. The development and test engineers chose Arjeplog as the final destination for their testing programme. The snow-covered roads and frozen lakes in northern Sweden, featuring expansive ice surfaces, offered an optimal environment to assess the interactions among chassis components, steering and braking systems, and driving dynamic and stability systems in extreme outdoor conditions.[4]
+ Following the testing in Arjeplog, the BMW i5 underwent further testing throughout 2022. This included assessments at various BMW Group test facilities and real-world driving scenarios in and around Munich, as well as in the vicinity of BMW Group Plant Dingolfing. The focus during this phase was on continual refinement of the car's chassis technology and acoustic properties across multiple conditions. Additionally, efforts were directed toward fine-tuning the power delivery of the drive unit to ensure a well-rounded driving experience. A deliberate part of the development involved testing during colder months on icy and snowy roads in the Alpine foothills. In the winter of 2022, BMW i5 prototypes, featuring reduced camouflage and near-production headlights, were regularly deployed for testing to verify the functionality and reliability of the powertrain and chassis control systems under extremely challenging road and weather conditions. BMW engineers overseeing the project were able to directly assess the current state of development through testing in Bavaria before returning to endurance testing near the Arctic Circle in February 2023.[4]
+ Launch:
+The 5 Series was revealed in i5 form on 24 May 2023.[5][6][7][8] The long-wheelbase model, designated G68 and made exclusively for China, was unveiled on 8 August 2023.[9][10] The 5 Series began production on 21 July 2023 at the Dingolfing plant, followed by its battery electric counterpart four days later.[11][12] Sales began in October. The estate model began production on 1 March 2024.[13]
+ Markets:
+Europe:
+In Europe, six 5 Series trims were available for its September 2023 arrival, including the petrol 520i, and the plug-in hybrid 530e, and the 550e xDrive. Diesel models, the 520d and 520d xDrive, are available in all European countries excluding the United Kingdom.[14] Pricing was disclosed in October.[15] Four- and six-cylinder PHEV models are slated to follow in 2024.[14]
+ United States:
+In North America, six trims were available for its arrival in US dealerships on 28 October 2023.[16] Available 5 Series trims include the 530i, 530i xDrive, 540i xDrive, and the 550e xDrive.[17] i5 trims in the US include the eDrive40 and the M60 xDrive.[18]
+ Specifications:
+Design and chassis:
+The basis for the G60 5 Series is an updated version of BMW's Cluster Architecture (CLAR) platform. It is the same structure that underpins all BMW models featuring either a longitudinally mounted combustion engine or electric drivetrain.[19] Compared to its predecessor, the G60 is 97 mm (3.8 in) longer, 33 mm (1.3 in) wider and 36 mm (1.4 in) taller, while its wheelbase has been extended by 20 mm (0.79 in).[5] This makes the G60 longer than the 2000s E65 7 Series.[20] The G61 Touring is 97 mm (3.8 in) longer, 32 mm (1.3 in) wide, and 17 mm (0.67 in) taller than the previous generation. It also features the longest wheelbase in its class at 2,995 mm (117.9 in).[21]
+ The drag coefficient is 0.22–0.23 across the range, aided by an air flap control that opens intakes in the grille to add up to 16 mi (26 km) to the range, while an air curtain tidies up the air flow past the front wheels. Lightweight “air performance” wheels with inserts also help incrementally reduce emissions and enhance range.[22][23] The surfacing along the rest of the car is neater than before, with flush-fitting door handles, a sloping boot lid and a closed-off underbody.[24]
+ The new platform features a double-wishbone front suspension on coil springs and multilink rear suspension on air springs,[5] as well as a torque vectoring system known as near-actuator wheel slip limitation.[25]
+ Four-wheel steering (Integral Active Steering) that turns the rear-wheels by up to 2.5 degrees is optional,[26] as are active anti-roll bars and adaptive dampers.[5]
+ Interior and equipment:
+The G60 5 Series is the first BMW to feature the updated iDrive 8.5 infotainment system based on the Linux operating system. The interface is accessed via the BMW Curved Display that combines the 310 mm (12.3 in) instrument cluster and 380 mm (14.9 in) infotainment system with a redesigned touch interface within a single unit. The operating system offers additional digital content, including a range of video streaming options and some in-car gaming features via the AirConsole, a free app that uses the smartphone as a controller for the suite of apps on offer.[20]
+ The BMW Interaction Bar, which debuted in the G70 7 Series, is an optional feature on the base models and standard on the i5. It adds touch-sensitive control points for air conditioning and the hazard light,[20] and a slim, backlit control panel that runs across the entire dashboard and into the front doors.[27]
+ The G60 5 Series is offered as fully leather-free for the first time. That treatment, which includes Alcantara-wrapped seats and steering wheel, is also available on models with the more aggressive M Sport pack equipped. Sporty seats are standard equipment on most of the G60 5 Series models, but multi-contour seats are standard on the i5 M60 (and can be opted for on other models).[20]
+ BMW calls its driver-assist option Driving Assistant Professional which includes Steering and Lane Control Assist and Distance Control, with Stop & Go function.[28] This system, which still requires the driver to hold the steering wheel as it "drives" the 5 Series, comes with Active Lane Change Assistant. The system makes suggestion on how to change lanes to move around slower traffic, but won't act until the driver's eye looks at the corresponding mirror.[5]
+ In markets where regulations permit (United States, Canada and Germany), the Highway Assistant can relieve the driver of steering tasks on highways with structurally divided lanes at up to 130 km/h (81 mph).[28]
+ The boot of the G60 5 Series has a volume of 520 L (18 cu ft) for both the pure combustion-engine and plug-in hybrid models, which is 10 L (0.35 cu ft) smaller compared to the previous model. Wheel sizes range from 19- to 21-inches.[29] The G61 Touring features the same 570 L (20 cu ft) storage capacity that extends to 1,700 L (60 cu ft) with the rear seats folded down as its predecessor.[21] Unlike its predecessors, the G61 Touring no longer features the independent rear glass opening feature on the rear tailgate, as the rear end features a more coupe-like design to improve the coefficient drag and the boot volume is not compromised.[30]
+ Powertrain:
+The G60 5 Series is offered with a range of 48-volt mild hybrid turbocharged petrol and diesel engines, plug-in hybrid models as well as all-electric i5 models.[31] All models except the all-electric models are fitted as standard with the ZF 8HP 8-speed automatic transmission produced by ZF Friedrichshafen. Rear-wheel drive is standard, while BMW's xDrive all-wheel drive system is optional on some base models and is standard fitment on top-of-the-line models.[32]
+ The G60 is primarily available with 2.0 litre four cylinder engines with 48 V mild hybrid technology with an integrated starter-generator, integrated into the transmission. Plug-in hybrid models feature a permanent-magnet synchronous motor, paired with an 19.4 kWh lithium-ion battery. The range-topping M560e is available with the 3.0 litre six-cylinder engine.
+ The 530e PHEV model's all-electric range is 87–101 km (54–63 mi), while the 550e PHEV's all electric range is 79–90 km (49–56 mi). For both models, the fully electric modes let the driver cruise below speeds of 140 km/h (87 mph).[33]
+ -------------------  ---  ------------------  -------------------------------------------------------------  ---------------------------------------------------------------------------  --------------------------------------------------------  -------------------------------------  ----------------------------------------  -----  ----------------------  ---
+
+520i[34]             B48  1,998 cc (2.0 L)I4  Engine: 153 kW; 208 PS (205 hp)Motor: 13 kW; 18 PS (18 hp)     Engine: 330 N⋅m (33.7 kg⋅m; 243 lb⋅ft)Motor: 200 N⋅m (20.4 kg⋅m; 148 lb⋅ft)  -                                                         Integrated starter generator[a]        20Ahlithium-ion                           7.5 s  8-speedZF 8HPautomatic  RWD
+2024–present
+530i[35]             B48  1,998 cc (2.0 L)I4  Engine: 190 kW; 259 PS (255 hp)Motor: 13 kW; 18 PS (18 hp)     Engine: 400 N⋅m (40.8 kg⋅m; 295 lb⋅ft)Motor: 200 N⋅m (20.4 kg⋅m; 148 lb⋅ft)  -                                                         5.9 s
+2024–present
+530i xDrive[36]      B48  1,998 cc (2.0 L)I4  -                                                              5.8 s                                                                        AWD
+2024–present
+530e xDrive[37][38]  B48  1,998 cc (2.0 L)I4  Engine: 142 kW; 193 PS (190 hp)Motor: 137 kW; 187 PS (184 hp)  Engine: 310 N⋅m (31.6 kg⋅m; 229 lb⋅ft)Motor: 250 N⋅m (25.5 kg⋅m; 184 lb⋅ft)  220 kW; 299 PS (295 hp) / 450 N⋅m (45.9 kg⋅m; 332 lb⋅ft)  1xPermanent-magnet synchronous motor   22.1 (18.7 usable)kWh, 348Vlithium-ion    6.3 s  AWD
+2024–present
+540i xDrive[39][40]  B58  2,998 cc (3.0 L)I6  Engine: 280 kW; 380 PS (375 hp)Motor: 13 kW; 18 PS (18 hp)     Engine: 520 N⋅m (53.0 kg⋅m; 384 lb⋅ft)Motor: 200 N⋅m (20.4 kg⋅m; 148 lb⋅ft)  -                                                         Integrated starter generator[a]        20Ahlithium-ion                           4.5 s  AWD
+2024–present
+550e xDrive[41][42]  B58  2,998 cc (3.0 L)I6  Engine: 233 kW; 317 PS (313 hp)Motor: 147 kW; 200 PS (197 hp)  Engine: 450 N⋅m (45.9 kg⋅m; 332 lb⋅ft)Motor: 280 N⋅m (28.6 kg⋅m; 207 lb⋅ft)  365 kW; 496 PS (489 hp) / 700 N⋅m (71.4 kg⋅m; 516 lb⋅ft)  1x Permanent-magnet synchronous motor  22.1 (18.7 usable) kWh, 348V lithium-ion  4.3 s  AWD
+2024–present
+M560e xDrive         B58  2,998 cc (3.0 L)I6  421 kW; 573 PS (565 hp) / 800 N⋅m (81.6 kg⋅m; 590 lb⋅ft)       2x Permanent-magnet synchronous motor                                        22.1 (18.7 usable) kWh, 348V lithium-ion                  4.0 s                                  AWD
+2025–present
+520d[43]             B47  1,995 cc (2.0 L)I4  Engine: 145 kW; 197 PS (194 hp)Motor: 13 kW; 18 PS (18 hp)     Engine: 400 N⋅m (40.8 kg⋅m; 295 lb⋅ft)Motor: 200 N⋅m (20.4 kg⋅m; 148 lb⋅ft)  -                                                         Integrated starter generator[a]        20 Ah lithium-ion                         7.5 s  RWD
+2024–present
+520d xDrive[44]      -    AWD
+2024–present
+540d xDrive          B57  2,995 cc (3.0 L)I6  Engine: 224 kW; 304 PS (300 hp)Motor: 13 kW; 18 PS (18 hp)     Engine: 670 N⋅m (68.3 kg⋅m; 494 lb⋅ft)Motor: 200 N⋅m (20.4 kg⋅m; 148 lb⋅ft)  -                                                         Integrated starter generator[a]        20 Ah lithium-ion                         5.3 s
+2025–present
+-------------------  ---  ------------------  -------------------------------------------------------------  ---------------------------------------------------------------------------  --------------------------------------------------------  -------------------------------------  ----------------------------------------  -----  ----------------------  ---The table above does not include specifications of the all-electric models. For specifications of the all-electric models, see the section about the BMW i5 below.
+ - ^ a b c d Integrated into the transmission
+
+BMW i5:
+The BMW i5 and BMW i5 Touring are battery electric models of the 5 Series (G60/G61). The i5 saloon was announced in May 2023 with the conventional G60 5 Series,[25] while the i5 Touring was unveiled in February 2024.[2] It is built at the same Dingolfing assembly line as units with combustion engines and plug-in hybrids.[25]
+ An in-house developed electric motor paired with an 84.3 kWh battery pack makes for 250 kW (340 PS; 335 hp) and 400 N⋅m (295 lb⋅ft) (or 430 N⋅m (317 lb⋅ft) when Sport Boost or Launch Control is active) sent to the rear wheels of the i5 eDrive40,[25] while the addition of an extra electric motor up front on the i5 M60 xDrive allows for 442 kW (601 PS; 593 hp) and 795 N⋅m (586 lb⋅ft) sent to all four wheels (or up to 820 N⋅m (605 lb⋅ft) with Sport Boost or M Launch Control activated).[28] This electric motor is part of BMW’s fifth-generation e-drive kit, utilizing a current-excited synchronous machine that eliminates the need for permanent magnets and rare earth.[45] The motors themselves are positioned in the axles, and the axles also house the one-speed transmissions and power electronics. The M60 also gets standard adaptive suspension, a 7.62 mm (0.300 in) lower ride height than the base model, and upgraded brakes.[46]
+ The i5 can adjust its braking energy regeneration based on battery level and traffic situation, though the driver can manually select low, medium, or high braking regeneration as well.[25] A new Max Range mode optimize the remaining charge in the battery up to 25 percent by limiting top speed to 90 km/h (56 mph) and shuts down the climate control, the heated and cooled seats, and the heated steering wheel.[5]
+ The onboard Combined Charging Unit (CCU) supports AC charging at up to 11 kW as standard, or up to 22 kW as an option. DC fast charging is supported at up to 205 kW, which can take the battery from 10 to 80 percent in about 30 minutes.[28] BMW introduced a "Plug & Charge" function that automatically authenticates itself and eliminates the need for account access through the provider’s app or card at compatible public charging stations.[47] Customers can store up to five individual Plug & Charge-enabled accounts from different providers in BMW’s iDrive system.[48]
+ Batteries are packed below the floor, inside the center tunnel and under the rear seats.[49] The 84.3 kWh high-voltage battery is composed of four modules with 72 battery cells each and three modules with 12 cells each.[47] It is a 400-volt lithium-ion battery, which has a 211 amp-hour capacity.[50] Due to electrical components such as the battery and motor, boot space decreases from 520 L (18 cu ft) on the pure combustion-engine and plug-in hybrid models to 490 L (17 cu ft) on the i5 saloon.[51][52] However, the i5 Touring features the same storage capacity as its pure combustion-engine and plug-in hybrid models, 570 L (20 cu ft) of storage capacity that extends to 1,700 L (60 cu ft) with the rear seats folded down.[21]
+ Models:
+
+Models introduced at launch include the high-performance AWD M60 and RWD model eDrive40.[5] The xDrive40, a mid-range AWD model, was announced in early February 2024 as a 2025 model for the saloon model.[53] Later in February 2024, the BMW i5 Touring was launched with the M60 and eDrive40 variants, while the xDrive40 is expected for late 2024.[21]
+ ----------------------------------------------------------------------------------------------------------------------  ----------------------------------------------------------------------------------------------------------------------  ----------------------------------------------------------------------------------------------------------------------
+
+Rear-motor rear-wheel drive (RWD)                                                                                       Dual-motors all-wheel drive (xDrive)                                                                                    Dual-motors all-wheel drive (xDrive)
+3-phase electrically excitedsynchronous electric motor(ESM)                                                             3-phase electrically excitedsynchronous electric motor(ESM) front and rear                                              3-phase electrically excitedsynchronous electric motor(ESM) front and rear
+84.3 kWh (81.2 kWh)                                                                                                     84.3 kWh (81.2 kWh)                                                                                                     84.3 kWh (81.2 kWh)
+497–582 km (309–362 mi)WLTP300 mi (483 km)EPA                                                                           463–538 km (288–334 mi)WLTP                                                                                             455–516 km (283–321 mi)WLTP256 mi (412 km)EPA
+483–560 km (300–348 mi)WLTP                                                                                             TBA                                                                                                                     445–506 km (277–314 mi)WLTP
+18.9–15.9 kWh/100 km[a]19.3–16.5 kWh/100 km[b]                                                                          20.0–17.2 kWh/100 km[a]TBA[b]                                                                                           20.6–18.2 kWh/100 km[a]20.8–18.3 kWh/100 km[b]
+250 kW (340 PS; 335 hp)                                                                                                 290 kW (394 PS; 389 hp)                                                                                                 442 kW (601 PS; 593 hp)
+430 N⋅m (317 lb⋅ft)                                                                                                     590 N⋅m (435 lb⋅ft)                                                                                                     820 N⋅m (605 lb⋅ft)
+193 km/h (120 mph)                                                                                                      215 km/h (134 mph)                                                                                                      230 km/h (143 mph)
+5.7 seconds[a]6.1 seconds[b]                                                                                            5.2 seconds[a]TBA[b]                                                                                                    3.8 seconds[a]3.9 seconds[b]
+Up toDC205 kW viaCCS Combo 2                                                                                            Up toDC205 kW viaCCS Combo 2                                                                                            Up toDC205 kW viaCCS Combo 2
+AC 11 kW viaJ1772(North America) or3-phase AC11 kW viaType 2(elsewhere), while an optional 22 kW charger is available.  AC 11 kW viaJ1772(North America) or3-phase AC11 kW viaType 2(elsewhere), while an optional 22 kW charger is available.  AC 11 kW viaJ1772(North America) or3-phase AC11 kW viaType 2(elsewhere), while an optional 22 kW charger is available.
+2,205 kg (4,861 lb)[a]2,255 kg (4,971 lb)[b]                                                                            2,355 kg (5,192 lb)[a]TBA[b]                                                                                            2,380 kg (5,247 lb)[a]2,425 kg (5,346 lb)[b]
+2024–present                                                                                                            2025–present                                                                                                            2024–present
+----------------------------------------------------------------------------------------------------------------------  ----------------------------------------------------------------------------------------------------------------------  ----------------------------------------------------------------------------------------------------------------------Specifications
+ 300 mi (483 km)EPA
+ 256 mi (412 km)EPA
+ 19.3–16.5 kWh/100 km[b]
+ TBA[b]
+ 20.8–18.3 kWh/100 km[b]
+ 0–100 km/h (62 mph)
+ 6.1 seconds[b]
+ TBA[b]
+ 3.9 seconds[b]
+ - ^ a b c d e f g h i BMW i5
+
+- ^ a b c d e f g h i BMW i5 Touring
+
