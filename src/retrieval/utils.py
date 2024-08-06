@@ -7,7 +7,7 @@ from src.utils import get_current_folder,get_llm
 def get_retrieval(k=3):
     llm = get_llm()
     embeddings = OpenAIEmbeddings()
-    faiss_path = "/src/retrieval/faiss_index"
+    faiss_path = "./faiss_index"
     print(faiss_path)
     vectorstore = FAISS.load_local(faiss_path,embeddings)
     return vectorstore.as_retriever(search_kwargs={"k": 3})
