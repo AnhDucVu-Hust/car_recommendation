@@ -1,17 +1,18 @@
 import json
-
+from langchain_openai import ChatOpenAI
 from langchain_core.output_parsers import StrOutputParser
 from src.chatbot.utils import merge_chat_history,merge_document
 from src import utils
 from src.retrieval.utils import get_retrieval
 from langchain_core.prompts import PromptTemplate
-llm = utils.get_llm()
+
 retrieval = get_retrieval()
 from langchain_community.tools import DuckDuckGoSearchRun
 
 search = DuckDuckGoSearchRun()
-
-def follow_up_chain():
+api_key = "x"
+llm = ChatOpenAI(model="gpt-3.5-turbo-1106", temperature=0.2,api_key = api_key)
+def follow_up_chain(api_key):
     follow_up_prompt = utils.get_prompt("follow_up_question")
     follow_up_prompt = PromptTemplate.from_template(follow_up_prompt)
     output_parser = StrOutputParser()
