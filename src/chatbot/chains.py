@@ -50,7 +50,7 @@ def answer_with_rag(question,chat_history):
     output_parser = StrOutputParser()
     chain = prompt | llm | output_parser
     input_handle = get_input_handle(question)
-    if input_handle != "OK":
+    if input_handle.split()[0] != "OK":
         return input_handle,"OK"
     follow_up_question = get_follow_up(question,chat_history)
     documents = retrieval.invoke(follow_up_question)
