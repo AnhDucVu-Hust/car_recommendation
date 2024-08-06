@@ -1,7 +1,8 @@
 import streamlit as st
 import requests
+from src import utils
 from PIL import Image
-
+import openai
 from src.chatbot.chains import answer_with_rag
 
 st.set_page_config(page_title="BMW's Car Assistant",
@@ -14,6 +15,11 @@ def main():
     image = load_image()
     st.image(image,width=50)
     st.header("Car Assistant From BMW")
+    api_key_input = st.text_input("Enter your OpenAI API key:")
+
+    if api_key_input:
+        utils.openai_key = api_key_input
+
     if "messages" not in st.session_state:
         st.session_state.messages = []
     for message in st.session_state.messages:

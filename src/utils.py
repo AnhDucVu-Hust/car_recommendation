@@ -3,11 +3,10 @@ import os
 
 from langchain_openai import ChatOpenAI
 import yaml
-
+openai_key = "sk-proj-OL0NNFHumrsvOMbStNuBT3BlbkFJhcZQe4LHFueunkF08vWb"
 def get_current_folder():
     return str(Path(__file__).parent)
-def get_llm():
-    openai_key = "sk-proj-OL0NNFHumrsvOMbStNuBT3BlbkFJhcZQe4LHFueunkF08vWb"
+def get_llm(openai_key):
     os.environ["OPENAI_API_KEY"] = openai_key
     llm = ChatOpenAI(model="gpt-3.5-turbo-1106", temperature=0.2)
     return llm
