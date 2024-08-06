@@ -1,0 +1,7 @@
+langchain
+langchain_openai
+faiss
+faiss-cpu
+json
+langchain_core
+langchain_community
