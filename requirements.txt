@@ -1,5 +1,5 @@
 langchain
-langchain_openai
+langchain-openai
 streamlit
 faiss-cpu
 json
