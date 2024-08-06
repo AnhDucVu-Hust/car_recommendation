@@ -9,5 +9,5 @@ def get_retrieval(k=3):
     embeddings = OpenAIEmbeddings()
     faiss_path = "./src/retrieval/faiss_index"
     print(faiss_path)
-    vectorstore = FAISS.load_local(faiss_path,embeddings)
+    vectorstore = FAISS.load_local(faiss_path,embeddings,allow_dangerous_deserialization=True)
     return vectorstore.as_retriever(search_kwargs={"k": 3})
