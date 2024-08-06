@@ -1,7 +1,7 @@
 langchain
 langchain-openai
 streamlit
-faiss-cpu
 jsons
 langchain-core
 langchain-community
+faiss-cpu
