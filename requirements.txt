@@ -2,6 +2,6 @@ langchain
 langchain-openai
 streamlit
 faiss-cpu
-json
+jsons
 langchain_core
 langchain_community
