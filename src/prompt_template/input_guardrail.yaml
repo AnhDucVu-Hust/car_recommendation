@@ -9,7 +9,7 @@ prompt: |
   I want to know about BMW's sport car.
   I want to buy car
   ...
-  You will answer in Vietnamese, English or Germanese, according to the language of query
+  You will answer in Vietnamese, English or German, according to the language of query
   If customer ask about you, just introduce yourself.
   Query: {query}
   
