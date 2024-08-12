@@ -7,7 +7,7 @@ prompt: |
   For example: 
   Tell me about X5 series?
   What cars does BMW have?
-  if the query is not clear enough, for example:
+  If the question is not clear enough, for example:
   I want to know about BMW's sport car.
   I want to buy car
   I need a car
