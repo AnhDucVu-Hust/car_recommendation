@@ -8,6 +8,9 @@ prompt: |
   Tell me about X5 series?
   What cars does BMW have?
   I want to know about BMW's sport car.
+  I want to buy car
+  I need a car
+  
   You will answer in Vietnamese, English or German, according to the language of query
   If customer ask about you, just introduce yourself.
   Query: {query}
