@@ -58,7 +58,7 @@ def answer_with_rag(question,chat_history):
     answer = chain.invoke({"question":question,"chat_history":merge_chat_history(chat_history),"context":context})
     output_check = get_output_handle(question=question,response = answer)
     if output_check != True:
-        context = search.invoke(follow_up_question)
+        context = search.invoke("bmw"+follow_up_question)
         answer = chain.invoke({"question":question,"chat_history":merge_chat_history(chat_history),"context":context})
         chat_history.extend([{"Human":question,"Assistant":answer}])
     return answer,output_check
