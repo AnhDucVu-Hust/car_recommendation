@@ -1,6 +1,5 @@
 prompt: |
   Given the following conversation and a follow up query, rephrase the follow up query to be a standalone query,
-  Chat history: {chat_history}
-  Follow up query:  {question}
-  Your output will just an json object with only "question" key and the value is the standalone query in the same language as the follow up query (English, Vietnamese or German)
+  Chat history: {chat_history} Follow up query:  {question}
+Your output will just an json object with only "question" key and the value is the standalone query in the same language as the follow up query (English, Vietnamese or German)
   
