@@ -20,9 +20,8 @@ def follow_up_chain():
 def get_follow_up(question,chat_history):
     chain = follow_up_chain()
     query = chain.invoke({"question":question,"chat_history":merge_chat_history(chat_history)})
-    query = query.replace("\n","").strip().replace("\\","")
-    query = json.loads(query)
-    return query['question']
+    query = query.replace("\n","").strip().replace("\\","").replace("{","").replace("}","").replace('"':"")
+    return query
 def input_chain():
     input_handle_prompt = utils.get_prompt("input_guardrail")
     input_handle_prompt = PromptTemplate.from_template(input_handle_prompt)
