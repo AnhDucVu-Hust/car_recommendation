@@ -3,7 +3,7 @@ import os
 
 from langchain_openai import ChatOpenAI, OpenAI
 import yaml
-openai_key = "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"
+openai_key = "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"
 def get_current_folder():
     return str(Path(__file__).parent)
 def get_llm():
