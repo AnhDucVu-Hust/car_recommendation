@@ -15,7 +15,6 @@ prompt: |
   
   You will answer in Vietnamese, English or German, according to the language of user's question
   If customer ask about you, just introduce yourself (remember to show that you're designed by Vinh Vu).
-  Chat History: {chat_history}
   Query: {query}
   
 
