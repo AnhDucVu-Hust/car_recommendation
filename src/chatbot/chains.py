@@ -28,9 +28,9 @@ def input_chain():
     output_parser = StrOutputParser()
     chain = input_handle_prompt | llm | output_parser
     return chain
-def get_input_handle(question,chat_history):
+def get_input_handle(question):
     chain = input_chain()
-    return chain.invoke({"chat_history":merge_chat_history(chat_history),"query":question})
+    return chain.invoke({"query":question})
 def output_chain():
     prompt = utils.get_prompt("output_guardrail")
     prompt = PromptTemplate.from_template(prompt)
@@ -49,7 +49,7 @@ def answer_with_rag(question,chat_history):
     prompt = PromptTemplate.from_template(prompt)
     output_parser = StrOutputParser()
     chain = prompt | llm | output_parser
-    input_handle = get_input_handle(question, chat_history)
+    input_handle = get_input_handle(question)
     if input_handle.split()[0] != "OK":
         return input_handle,"OK"
     follow_up_question = get_follow_up(question,chat_history)
