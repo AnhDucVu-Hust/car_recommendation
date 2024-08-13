@@ -1,7 +1,7 @@
 prompt: |
   Given the following conversation and a follow up query, rephrase the follow up query to be a standalone query,
-  Chat hiítory: {chat_history}
+  Chat history: {chat_history}
   Follow up query: {question}
-  if if the query already has a thought or is not related to chat history, keep the query as is
+  If the query already has a thought or is not related to chat history, keep the query as is
   Your output will just an json object with only "question" key and the value is the standalone query in the same language as the follow up query (English, Vietnamese or German)
   
