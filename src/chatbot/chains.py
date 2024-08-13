@@ -49,10 +49,10 @@ def answer_with_rag(question,chat_history):
     prompt = PromptTemplate.from_template(prompt)
     output_parser = StrOutputParser()
     chain = prompt | llm | output_parser
-    input_handle = get_input_handle(question)
+    follow_up_question = get_follow_up(question,chat_history)
+    input_handle = get_input_handle(follow_up_question)
     if input_handle.split()[0] != "OK":
         return input_handle,"OK"
-    follow_up_question = get_follow_up(question,chat_history)
     documents = retrieval.invoke(follow_up_question)
     context = merge_document(documents)
     answer = chain.invoke({"question":question,"chat_history":merge_chat_history(chat_history),"context":context})
