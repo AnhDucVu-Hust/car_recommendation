@@ -29,7 +29,7 @@ def main():
         with st.chat_message("user"):
             st.markdown(prompt)
         st.session_state.messages.append({"role": "user", "content": prompt})
-        if len(st.session_state.messages>3):
+        if len(st.session_state.messages)>3:
             response,_ = answer_with_rag(question=st.session_state.messages[-1]["content"],chat_history=st.session_state.messages[:-1])
         else:
             response,_ = answer_with_rag(question=st.session_state.messages[-1]["content"],chat_history=st.session_state.messages[-4:-1])
