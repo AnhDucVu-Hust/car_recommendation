@@ -17,7 +17,7 @@ def follow_up_chain():
     output_parser = StrOutputParser()
     chain = follow_up_prompt | llm | output_parser
     return chain
-def get_follow_up(question,chat_history):
+def get_follow_up(question):
     chain = follow_up_chain()
     query = chain.invoke({"question":question,"chat_history":merge_chat_history(chat_history)})
     query = json.loads(query.replace("\n","").strip().replace("\\",""))
