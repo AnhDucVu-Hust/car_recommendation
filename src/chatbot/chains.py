@@ -28,9 +28,9 @@ def input_chain():
     output_parser = StrOutputParser()
     chain = input_handle_prompt | llm | output_parser
     return chain
-def get_input_handle(question):
+def get_input_handle(question, chat_history):
     chain = input_chain()
-    return chain.invoke({"query":question})
+    return chain.invoke({"query":question,"chat_history":merge_chat_history(chat_history)})
 def output_chain():
     prompt = utils.get_prompt("output_guardrail")
     prompt = PromptTemplate.from_template(prompt)
@@ -49,10 +49,10 @@ def answer_with_rag(question,chat_history):
     prompt = PromptTemplate.from_template(prompt)
     output_parser = StrOutputParser()
     chain = prompt | llm | output_parser
-    follow_up_question = get_follow_up(question,chat_history)
-    input_handle = get_input_handle(follow_up_question)
+    input_handle = get_input_handle(question,chat_history)
     if input_handle.split()[0].replace(".","") != "OK":
         return input_handle,"OK"
+    follow_up_question = get_follow_up(question,chat_history)
     documents = retrieval.invoke(follow_up_question)
     context = merge_document(documents)
     answer = chain.invoke({"question":question,"chat_history":merge_chat_history(chat_history),"context":context})
