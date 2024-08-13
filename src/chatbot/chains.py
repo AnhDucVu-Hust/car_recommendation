@@ -17,7 +17,7 @@ def follow_up_chain():
     output_parser = StrOutputParser()
     chain = follow_up_prompt | llm | output_parser
     return chain
-def get_follow_up(question):
+def get_follow_up(question,chat_history):
     chain = follow_up_chain()
     query = chain.invoke({"question":question,"chat_history":merge_chat_history(chat_history)})
     query = json.loads(query.replace("\n","").strip().replace("\\",""))
@@ -28,7 +28,7 @@ def input_chain():
     output_parser = StrOutputParser()
     chain = input_handle_prompt | llm | output_parser
     return chain
-def get_input_handle(question,chat_history):
+def get_input_handle(question):
     chain = input_chain()
     return chain.invoke({"query":question})
 def output_chain():
@@ -51,7 +51,7 @@ def answer_with_rag(question,chat_history):
     chain = prompt | llm | output_parser
     follow_up_question = get_follow_up(question,chat_history)
     input_handle = get_input_handle(follow_up_question)
-    if input_handle.split()[0] != "OK":
+    if input_handle.split()[0].replace(".","") != "OK":
         return input_handle,"OK"
     documents = retrieval.invoke(follow_up_question)
     context = merge_document(documents)
