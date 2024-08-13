@@ -30,7 +30,7 @@ def input_chain():
     return chain
 def get_input_handle(question,chat_history):
     chain = input_chain()
-    return chain.invoke({"query":question,"chat_history":merge_chat_history(chat_history)})
+    return chain.invoke({"chat_history":merge_chat_history(chat_history),"query":question})
 def output_chain():
     prompt = utils.get_prompt("output_guardrail")
     prompt = PromptTemplate.from_template(prompt)
