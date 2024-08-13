@@ -61,4 +61,5 @@ def answer_with_rag(question,chat_history):
         context = search.invoke("bmw"+follow_up_question)
         answer = chain.invoke({"question":question,"chat_history":merge_chat_history(chat_history),"context":context})
         chat_history.extend([{"Human":question,"Assistant":answer}])
+    answer = answer.replace("assistant:","")
     return answer,output_check
