@@ -3,8 +3,7 @@ import os
 
 from langchain_openai import ChatOpenAI, OpenAI
 import yaml
-openai_key = "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"
-def get_current_folder():
+openai_key = ""
     return str(Path(__file__).parent)
 def get_llm():
     os.environ["OPENAI_API_KEY"] = openai_key
